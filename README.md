@@ -242,7 +242,7 @@ Save Model
 
 ## 👨‍💻 Author
 
-**Abhishek Tuvvara**
+**Abhishek Thuvvara**
 
 B.Tech Artificial Intelligence Student
 
